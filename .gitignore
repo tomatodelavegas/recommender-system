@@ -1,5 +1,6 @@
 # Others
 ml-25m/
+*.npy
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
