@@ -1,4 +1,7 @@
 # Recommender-system
+ConvTTLstm applied to MovieLens recommendation problem.  
+Implemented following: https://arxiv.org/pdf/2002.09131.pdf  
+The ConvTTLstm model found in utils was originally implemented by the authors.
 
 ## Authors
 - Ferdinand Bhavsar
